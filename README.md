@@ -2,6 +2,8 @@
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-0%2F2081-orange.svg)
 
+🔒 = Subscription Content
+
 ## Problems
 
 | # | Name | Solution | Difficulty |
