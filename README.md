@@ -138,32 +138,32 @@
 | 156 | 🔒 [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down) | | |
 | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4) | | |
 | 159 | 🔒 [Longest Substring With At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters) | | |
-| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | | |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 161 | 🔒 [One Edit Distance](https://leetcode.com/problems/one-edit-distance) | | |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element) | | |
 | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) | | |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) | | |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | | |
-| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | | |
-| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | | |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 170 | 🔒 [Two Sum III - Data Structure Design](https://leetcode.com/problems/two-sum-iii-data-structure-design) | | |
-| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | | |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 172 | [Factoring Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | | |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | | |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number) | | |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences) | | |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | | |
-| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | | |
-| 191 | [Number of One Bits](https://leetcode.com/problems/number-of-1-bits) | | |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 191 | [Number of One Bits](https://leetcode.com/problems/number-of-1-bits) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 198 | [House Robber](https://leetcode.com/problems/house-robber) | | |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | | |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | | |
 | 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range) | | |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | | |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | | |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes) | | |
-| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | | |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | | |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | | |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | | |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | | |
