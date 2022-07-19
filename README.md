@@ -10,89 +10,89 @@
 | :-- | --- | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | | |
-| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | | |
-| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | | |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | |
-| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | | |
-| 9 | [PalindromeNumber](https://leetcode.com/problems/palindrome-number/) | | |
-| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | | |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | | |
-| 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | | |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | |
-| 15 | [3Sum](https://leetcode.com/problems/3sum) | | |
-| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | | |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | | |
-| 18 | [4Sum](https://leetcode.com/problems/4sum) | | |
-| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | | |
-| 20 | [ValidParentheses](https://leetcode.com/problems/valid-parentheses/) | | |
-| 21 | [Merge 2 Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | |
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | | |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | | |
-| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | | |
-| 28 | [Needle in Haystack](https://leetcode.com/problems/implement-strstr) | | |
-| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | | |
-| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | | |
-| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | | |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | | |
-| 35 | [Search Inserted Position](https://leetcode.com/problems/search-insert-position/) | | |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | | |
-| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | | |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | | |
-| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | | |
-| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | | |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | | |
-| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | | |
-| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | | |
-| 46 | [Permutations](https://leetcode.com/problems/permutations) | | |
-| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | | |
-| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | | |
-| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | | |
-| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n) | | |
-| 53 | [Maximum SubArray](https://leetcode.com/problems/maximum-subarray) | | |
-| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | | |
-| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | | |
-| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | | |
-| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | | |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | | |
-| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | | |
-| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | | |
-| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | | |
-| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | | |
-| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | | |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one) | | |
-| 67 | [Add Binary](https://leetcode.com/problems/add-binary) | | |
-| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | | |
-| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | | |
-| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | | |
-| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | | |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | | |
-| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | | |
-| 77 | [Combinations](https://leetcode.com/problems/combinations) | | |
-| 78 | [Subsets](https://leetcode.com/problems/subsets) | | |
-| 79 | [Word Search](https://leetcode.com/problems/word-search) | | |
-| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | | |
-| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | | |
-| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | | |
-| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | | |
-| 86 | [Partition List](https://leetcode.com/problems/partition-list) | | |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | | |
-| 89 | [Gray Code](https://leetcode.com/problems/gray-code) | | |
-| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | | |
-| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways) | | |
-| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | | |
-| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | | |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | | |
-| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | | |
-| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | | |
-| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | | |
-| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | | |
-| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | | |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | | |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | | |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | | |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | | |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 9 | [PalindromeNumber](https://leetcode.com/problems/palindrome-number/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 15 | [3Sum](https://leetcode.com/problems/3sum) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 18 | [4Sum](https://leetcode.com/problems/4sum) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 20 | [ValidParentheses](https://leetcode.com/problems/valid-parentheses/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 21 | [Merge 2 Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 26 | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 28 | [Needle in Haystack](https://leetcode.com/problems/implement-strstr) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 35 | [Search Inserted Position](https://leetcode.com/problems/search-insert-position/) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 46 | [Permutations](https://leetcode.com/problems/permutations) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 53 | [Maximum SubArray](https://leetcode.com/problems/maximum-subarray) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 66 | [Plus One](https://leetcode.com/problems/plus-one) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 77 | [Combinations](https://leetcode.com/problems/combinations) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 78 | [Subsets](https://leetcode.com/problems/subsets) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 79 | [Word Search](https://leetcode.com/problems/word-search) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 86 | [Partition List](https://leetcode.com/problems/partition-list) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 97 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | | |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | | |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | | |
