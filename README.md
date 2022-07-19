@@ -90,43 +90,43 @@
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
 | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | | ![medium](https://img.shields.io/badge/-Medium-yellow)
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | | |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | | |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | | |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | | |
-| 108 | [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | | |
+| 108 | [Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | | |
-| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | | |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | | |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum) | | |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | | |
 | 114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | | |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | | |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | | |
-| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | | |
-| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | | |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 120 | [Triangle](https://leetcode.com/problems/triangle) | | |
-| 121 | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | | |
+| 121 | [Best Time to Buy and Sell Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 122 | [Best Time to Buy and Sell Stocks II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | | |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | | |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | | |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | | |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | | |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | | |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station) | | |
-| 136 | [Single Number](https://leetcode.com/problems/single-number) | | |
+| 136 | [Single Number](https://leetcode.com/problems/single-number) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii) | | |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | | |
 | 139 | [Word Break](https://leetcode.com/problems/word-break) | | |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | | |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | | |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list) | | |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | | |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | | |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | | ![easy](https://img.shields.io/badge/-Easy-green)
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | | ![easy](https://img.shields.io/badge/-Easy-green)
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache) | | |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list) | | |
