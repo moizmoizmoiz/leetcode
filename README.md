@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-0%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-1%2F2133-orange.svg)
 
 🔒 = Subscription Content
 
@@ -661,7 +661,7 @@
  701 |  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  702 | 🔒 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  703 |  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 704 |  | [Binary Search](https://leetcode.com/problems/binary-search/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 704 |  | [Binary Search](https://leetcode.com/problems/binary-search/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_704.py)
  705 |  | [Design HashSet](https://leetcode.com/problems/design-hashset/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  706 |  | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  707 |  | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
