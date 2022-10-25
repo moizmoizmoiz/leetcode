@@ -1,7 +1,4 @@
-"""
-
-
-"""
+# O(log n)
 
 
 class Solution:
