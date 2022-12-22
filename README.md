@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-1%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-3%2F2133-orange.svg)
 
 🔒 = Subscription Content
 
@@ -42,7 +42,7 @@
  32 |  | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  33 |  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  34 |  | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 35 |  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 35 |  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_35.py)
  36 |  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  37 |  | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  38 |  | [Count and Say](https://leetcode.com/problems/count-and-say/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -268,7 +268,7 @@
  275 |  | [H-Index II](https://leetcode.com/problems/h-index-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  276 | 🔒 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  277 | 🔒 | [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 278 |  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 278 |  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_278.py)
  279 |  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  280 | 🔒 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  281 | 🔒 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
