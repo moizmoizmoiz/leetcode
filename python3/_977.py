@@ -1,4 +1,4 @@
-# using deque : https://docs.python.org/2.5/lib/deque-objects.html
+# using deque : https://docs.python.org/3/library/collections.html#module-collections
 # O(n-log-n)
 
 class Solution:
