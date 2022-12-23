@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-3%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-5%2F2133-orange.svg)
 
 🔒 = Subscription Content
 
@@ -186,7 +186,7 @@
  186 | 🔒 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  187 |  | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  188 |  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
- 189 |  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 189 |  | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_189.py)
  190 |  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  191 |  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  198 |  | [House Robber](https://leetcode.com/problems/house-robber/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -934,7 +934,7 @@
  974 |  | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  975 |  | [Odd Even Jump](https://leetcode.com/problems/odd-even-jump/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  976 |  | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 977 |  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 977 |  | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_977.py)
  978 |  | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  979 |  | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  980 |  | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
