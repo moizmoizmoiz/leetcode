@@ -4,7 +4,8 @@
 
 🔒 = Subscription Content
 
-[//]: # ([Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_00.py))
+[//]: # ( [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_00.py)
+
 ## Problems
 
  **#** | **🔒?** | **Name** | **Difficulty** | **Solved** 
