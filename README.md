@@ -3,8 +3,7 @@
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-7%2F2133-orange.svg)
 
 🔒 = Subscription Content
-
-[//]: # ( [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_00.py)
+ 
 
 ## Problems
 
