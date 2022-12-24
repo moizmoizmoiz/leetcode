@@ -1,9 +1,10 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-5%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-7%2F2133-orange.svg)
 
 🔒 = Subscription Content
 
+[//]: # ([Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_00.py))
 ## Problems
 
  **#** | **🔒?** | **Name** | **Difficulty** | **Solved** 
@@ -174,7 +175,7 @@
  164 |  | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  165 |  | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  166 |  | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 167 |  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 167 |  | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_167.py)    
  168 |  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  169 |  | [Majority Element](https://leetcode.com/problems/majority-element/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  170 | 🔒 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
@@ -273,7 +274,7 @@
  280 | 🔒 | [Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  281 | 🔒 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  282 |  | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
- 283 |  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 283 |  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ![easy](https://img.shields.io/badge/-Easy-green) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_283.py)  
  284 |  | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  285 | 🔒 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  286 | 🔒 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
