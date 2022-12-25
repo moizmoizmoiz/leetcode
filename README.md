@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-7%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-9%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -335,7 +335,8 @@
  341 |  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  342 |  | [Power of Four](https://leetcode.com/problems/power-of-four/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  343 |  | [Integer Break](https://leetcode.com/problems/integer-break/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 344 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_344.py)  
+ 344 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_344
+.py)  
  345 |  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  346 | 🔒 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  347 |  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
