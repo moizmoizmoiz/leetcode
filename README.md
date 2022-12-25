@@ -335,7 +335,7 @@
  341 |  | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  342 |  | [Power of Four](https://leetcode.com/problems/power-of-four/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  343 |  | [Integer Break](https://leetcode.com/problems/integer-break/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 344 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 344 |  | [Reverse String](https://leetcode.com/problems/reverse-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_344.py)  
  345 |  | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  346 | 🔒 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  347 |  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -544,7 +544,7 @@
  554 |  | [Brick Wall](https://leetcode.com/problems/brick-wall/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  555 | 🔒 | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  556 |  | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 557 |  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 557 |  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | ![easy](https://img.shields.io/badge/-Easy-green) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_557.py)  
  558 |  | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  559 |  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  560 |  | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
