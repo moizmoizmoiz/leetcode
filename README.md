@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-9%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-11%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -27,7 +27,7 @@
  16 |  | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  17 |  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  18 |  | [4Sum](https://leetcode.com/problems/4sum/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 19 |  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 19 |  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_19.py)  
  20 |  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  21 |  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  22 |  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -835,7 +835,7 @@
  873 |  | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  874 |  | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  875 |  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 876 |  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 876 |  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | ![easy](https://img.shields.io/badge/-Easy-green) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_876.py)  
  877 |  | [Stone Game](https://leetcode.com/problems/stone-game/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  878 |  | [Nth Magical Number](https://leetcode.com/problems/nth-magical-number/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  879 |  | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
