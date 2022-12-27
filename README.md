@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-11%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-13%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -11,7 +11,7 @@
 ---|---|---|---|---
  1 |  | [Two Sum](https://leetcode.com/problems/two-sum/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  2 |  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 3 |  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 3 |  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_3.py)  
  4 |  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  5 |  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  6 |  | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -555,7 +555,7 @@
  564 |  | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  565 |  | [Array Nesting](https://leetcode.com/problems/array-nesting/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  566 |  | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 567 |  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 567 |  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_567.py)  
  568 | 🔒 | [Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  572 |  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  573 | 🔒 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
