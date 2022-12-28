@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-13%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-15%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -653,7 +653,7 @@
  692 |  | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  693 |  | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  694 | 🔒 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 695 |  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 695 |  | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_695.py)  
  696 |  | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  697 |  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  698 |  | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -691,7 +691,7 @@
  730 |  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  731 |  | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  732 |  | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
- 733 |  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 733 |  | [Flood Fill](https://leetcode.com/problems/flood-fill/) | ![easy](https://img.shields.io/badge/-Easy-green) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_733.py)  
  734 | 🔒 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  735 |  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  736 |  | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
