@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-15%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-17%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -124,7 +124,7 @@
  113 |  | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  114 |  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  115 |  | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
- 116 |  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 116 |  | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_116.py)  
  117 |  | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  118 |  | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  119 |  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
@@ -580,7 +580,7 @@
  609 |  | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  611 |  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  616 | 🔒 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
- 617 |  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 617 |  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | ![easy](https://img.shields.io/badge/-Easy-green) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_617.py)  
  621 |  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  622 |  | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  623 |  | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
