@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-17%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-19%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -530,7 +530,7 @@
  539 |  | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  540 |  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  541 |  | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 542 |  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 542 |  | [01 Matrix](https://leetcode.com/problems/01-matrix/) | ![medium](https://img.shields.io/badge/-Medium-yellow) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_542.py)  
  543 |  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  544 | 🔒 | [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  545 | 🔒 | [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -952,7 +952,7 @@
  991 |  | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  992 |  | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  993 |  | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 994 |  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
+ 994 |  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_994.py)  
  995 |  | [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  996 |  | [Number of Squareful Arrays](https://leetcode.com/problems/number-of-squareful-arrays/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  997 |  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
