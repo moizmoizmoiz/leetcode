@@ -1,6 +1,6 @@
 # LeetCode Algorithms
 
-![problems-solved](https://img.shields.io/badge/Problems%20Solved-19%2F2133-orange.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-21%2F2133-orange.svg)
 
 🔒 = Subscription Content
  
@@ -29,7 +29,7 @@
  18 |  | [4Sum](https://leetcode.com/problems/4sum/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  19 |  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_19.py)  
  20 |  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 21 |  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 21 |  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ![easy](https://img.shields.io/badge/-Easy-green) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_21.py)  
  22 |  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  23 |  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ![hard](https://img.shields.io/badge/-Hard-red) |  
  24 |  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
@@ -198,7 +198,7 @@
  203 |  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
  204 |  | [Count Primes](https://leetcode.com/problems/count-primes/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  205 |  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
- 206 |  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ![easy](https://img.shields.io/badge/-Easy-green) |  
+ 206 |  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | ![easy](https://img.shields.io/badge/-Easy-green) | [Py3](https://github.com/moizmoizmoiz/leetcode/blob/main/python3/_206.py)  
  207 |  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  208 |  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
  209 |  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | ![medium](https://img.shields.io/badge/-Medium-yellow) |  
